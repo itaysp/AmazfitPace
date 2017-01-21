@@ -1,1 +1,1 @@
-# AmazfitPace
+# AmazfitPace Hebrew Fonts
